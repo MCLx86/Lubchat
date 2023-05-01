@@ -1,5 +1,5 @@
 # Lubchat
-Official Python client for HackChat.
+Official client for HackChat.
 
 ## Server
 The official server (HackChat) can be accessed here: https://github.com/kacperks/HackChat
