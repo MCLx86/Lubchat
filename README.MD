@@ -1,8 +1,8 @@
 # Lubchat
-Official client for HackChat.
+Official chat client for HackChat.
 
 ## Server
-The official server (HackChat) can be accessed here: https://github.com/kacperks/HackChat
+The official server software (HackChat) can be found here: https://github.com/kacperks/HackChat
 
 ## Installation procedure
 1) Install Git; if you have already then skip this step (link : https://git-scm.com/download/win)
